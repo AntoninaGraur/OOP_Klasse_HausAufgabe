@@ -1,0 +1,14 @@
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\bin\Debug\net8.0\OOP_Klasse_HausAufgabe.exe
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\bin\Debug\net8.0\OOP_Klasse_HausAufgabe.deps.json
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\bin\Debug\net8.0\OOP_Klasse_HausAufgabe.runtimeconfig.json
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\bin\Debug\net8.0\OOP_Klasse_HausAufgabe.dll
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\bin\Debug\net8.0\OOP_Klasse_HausAufgabe.pdb
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\OOP_Klasse_HausAufgabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\OOP_Klasse_HausAufgabe.AssemblyInfoInputs.cache
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\OOP_Klasse_HausAufgabe.AssemblyInfo.cs
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\OOP_Klasse_HausAufgabe.csproj.CoreCompileInputs.cache
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\OOP_Klasse_HausAufgabe.dll
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\refint\OOP_Klasse_HausAufgabe.dll
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\OOP_Klasse_HausAufgabe.pdb
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\OOP_Klasse_HausAufgabe.genruntimeconfig.cache
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\ref\OOP_Klasse_HausAufgabe.dll
