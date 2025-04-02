@@ -14,12 +14,21 @@ namespace OOP_Klasse_HausAufgabe
         private int Jahr;
 
 
-        public void setName(string Model, string Farbe, int Jahr)
+        public void setModel()
         {
             this.Model = Model;
+        }
+
+        public void setFarbe()
+        {
             this.Farbe = Farbe;
+        }
+        public void setJahr()
+        {
             this.Jahr = Jahr;
         }
+
+
 
         public string GetModel()
         {

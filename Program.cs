@@ -2,6 +2,7 @@
 
 using OOP_Klasse_HausAufgabe;
 
+
 class Programm
 {
     static void Main()
@@ -30,7 +31,8 @@ class Programm
         Console.WriteLine("Baujahr: " + lastwagen1.GetJahr());
 
 
-
+        Console.ReadLine();
 
     }
 }
+
