@@ -12,3 +12,4 @@ C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\refint\OOP
 C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\OOP_Klasse_HausAufgabe.pdb
 C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\OOP_Klasse_HausAufgabe.genruntimeconfig.cache
 C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\ref\OOP_Klasse_HausAufgabe.dll
+C:\Users\A.Graur\source\repos\OOP_Klasse_HausAufgabe\obj\Debug\net8.0\OOP_Klasse_HausAufgabe.sourcelink.json

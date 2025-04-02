@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace OOP_Klasse_HausAufgabe
 {
-    class Lastwagen
-    {
-
+   class Motorad
+     {
         private string Model;
         private string Farbe;
         private int Jahr;
-
 
         public void SetModel()
         {
@@ -27,8 +25,6 @@ namespace OOP_Klasse_HausAufgabe
         {
             this.Jahr = Jahr;
         }
-
-
 
         public string GetModel()
         {
@@ -45,11 +41,11 @@ namespace OOP_Klasse_HausAufgabe
             return this.Jahr;
         }
 
-        public Lastwagen(string model, string farbe, int jahr )
-        {
-            this.Model=model;   
-            this.Farbe = farbe;
-            this.Jahr = jahr;
+        public Motorad(string modelMot, string farbeMot, int jahrMot ) 
+        { 
+            this.Model= modelMot;
+            this.Farbe= farbeMot;
+            this.Jahr= jahrMot;
         }
     }
 }
