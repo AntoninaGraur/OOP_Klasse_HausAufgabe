@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP_Klasse_HausAufgabe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+720dea50e953acf64283da87552f2b727fe5a169")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+604c84e4cdeeb43320588a3b1daa8dc70999f2d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP_Klasse_HausAufgabe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP_Klasse_HausAufgabe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
