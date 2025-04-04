@@ -5,10 +5,12 @@ using OOP_Klasse_HausAufgabe;
 
 class Programm
 {
+    
+
     static void Main()
     {
-
-        Console.Write("Gib das Model ein:  ");
+        Console.WriteLine("Lastwagen");
+        Console.Write("\nGib das Model ein:  ");
         string model = Console.ReadLine();
 
         Console.Write("Gib die Farbe ein:  ");
@@ -32,6 +34,8 @@ class Programm
 
 
         Console.ReadLine();
+
+        Console.WriteLine("PKWagen");
 
         Console.Write("Gib das Model ein:  ");
         string modelPKW = Console.ReadLine();
@@ -59,6 +63,7 @@ class Programm
         Console.ReadLine();
 
 
+        Console.WriteLine("Motorad");
         Console.Write("Gib das Model ein:  ");
         string modelMot = Console.ReadLine();
 
@@ -82,6 +87,9 @@ class Programm
 
 
         Console.ReadLine();
+        
+
+        
     }
 }
 
